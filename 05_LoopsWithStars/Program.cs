@@ -20,7 +20,6 @@ namespace _05_LoopsWithStars
 
             #endregion
 
-
             #region Yan yana 10 tane yıldız oluşturma
 
             //for (int i = 1; i <= 10; i++)
@@ -30,7 +29,6 @@ namespace _05_LoopsWithStars
 
             #endregion
 
-
             #region Alt alta 10 tane yıldız oluşturma her satırda 10 tane yıldız olsun
 
             //for (int i = 1; i <= 10; i++)
@@ -39,7 +37,6 @@ namespace _05_LoopsWithStars
             //}
 
             #endregion
-
 
             #region Dik üçgen
 
@@ -167,6 +164,7 @@ namespace _05_LoopsWithStars
 
 
             #endregion
+
             Console.Read();
 
         }
