@@ -37,3 +37,7 @@ In this project, void methods, string parameterized methods that do not return a
 ## ⛳ 09_DatabaseProject
 In this project, database connection, retrieving data from this database and printing it to the console are covered.
 -
+
+## ⛳ 10_DatabaseCrud
+In this project, the processes of adding categories, creating products, listing products, deleting products, and updating product details are covered.
+-
